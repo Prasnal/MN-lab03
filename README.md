@@ -1,4 +1,4 @@
-# MN-lab05
+# MN-lab03
 ## Usage:
 $ make <br />
 $ ./program  <br />
